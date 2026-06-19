@@ -1,5 +1,6 @@
 
-Secure identity and access (15–20%)
+**Secure identity and access (15–20%)**
+
 Manage security controls for identity and access
 Manage Azure built-in role assignments
 
@@ -24,7 +25,8 @@ Manage and use service principals
 
 Manage managed identities
 
-Secure networking (20–25%)
+**Secure networking (20–25%)**
+
 Plan and implement security for virtual networks
 Plan and implement Network Security Groups (NSGs) and Application Security Groups (ASGs)
 
@@ -70,7 +72,8 @@ Plan and implement a Web Application Firewall (WAF)
 
 Recommend when to use Azure DDoS Protection Standard
 
-Secure compute, storage, and databases (20–25%)
+**Secure compute, storage, and databases (20–25%)**
+
 Plan and implement advanced security for compute
 Plan and implement remote access to virtual machines, including Azure Bastion and just-in-time (JIT) VM access
 
@@ -116,9 +119,10 @@ Implement Transparent Data Encryption (TDE)
 
 Recommend when to use Azure SQL Database Always Encrypted
 
-Secure Azure using Microsoft Defender for Cloud and Microsoft Sentinel (30–35%)
+**Secure Azure using Microsoft Defender for Cloud and Microsoft Sentinel (30–35%)
 Implement and manage enforcement of cloud governance policies
-Create, assign, and interpret policies and initiatives in Azure Policy
+Create, assign, and interpret policies and initiatives in Azure Policy**
+
 
 Configure Azure Key Vault network settings
 
