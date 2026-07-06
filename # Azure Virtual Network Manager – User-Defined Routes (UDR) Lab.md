@@ -116,6 +116,15 @@ Creating the configuration does **not** apply it — it must be explicitly deplo
 ## Result
 
 After deployment, Azure Virtual Network Manager automatically creates and maintains the UDRs on all VNets that are members of `NetworkGroup-Test` — currently `Vnet2-Test` — routing all outbound traffic (`0.0.0.0/0`) to the specified next-hop virtual network, with no manual route table configuration required.
+<img width="948" height="406" alt="image" src="https://github.com/user-attachments/assets/6af57eed-3f51-47c9-89e3-1f7c90bf4068" />
+<img width="959" height="452" alt="image" src="https://github.com/user-attachments/assets/72564fc0-fbfe-4c46-bf12-d5523269f8df" />
+<img width="959" height="424" alt="image" src="https://github.com/user-attachments/assets/bdc66c83-552b-4a98-8372-aef26eebd204" />
+
+<img width="955" height="440" alt="image" src="https://github.com/user-attachments/assets/9946de3e-e9a4-4589-bd94-9a830d4b4d9d" />
+<img width="956" height="452" alt="deployement" src="https://github.com/user-attachments/assets/9d4450c3-d402-4c62-a34c-c4859a2919e1" />
+
+
+
 
 ## References
 
