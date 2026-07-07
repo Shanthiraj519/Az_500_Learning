@@ -1,4 +1,4 @@
-# Lab 04 – Create an Azure Virtual Network
+# Lab – Create an Azure Virtual Network
 
 ## Objective
 Deploy a Virtual Network (VNet) with a subnet, secure it with an NSG, connect it via Azure Bastion, and validate private connectivity between two VMs in the same VNet.
