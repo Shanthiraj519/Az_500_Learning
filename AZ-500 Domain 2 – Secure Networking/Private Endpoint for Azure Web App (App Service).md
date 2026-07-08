@@ -1,4 +1,4 @@
-# Lab 21: Private Endpoint for Azure Web App (App Service)
+# Lab: Private Endpoint for Azure Web App (App Service)
 
 ## Objective
 Deploy an Azure Web App (App Service) and secure it using a Private Endpoint, validating that DNS resolution and connectivity work correctly from within a peered VNet via Azure Bastion.
