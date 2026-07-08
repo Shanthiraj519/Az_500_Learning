@@ -85,6 +85,8 @@ Screenshots:
 <img width="1365" height="362" alt="image" src="https://github.com/user-attachments/assets/22411ef8-75a6-4119-a807-eb78568c87f4" />
 <img width="1363" height="649" alt="image" src="https://github.com/user-attachments/assets/f7965b9b-09e6-4ad8-aa72-542bb36d8cac" />
 <img width="910" height="506" alt="image" src="https://github.com/user-attachments/assets/8208ff81-e83d-4d70-bd99-a7a6073a1f58" />
+<img width="1334" height="667" alt="image" src="https://github.com/user-attachments/assets/d54a47cf-056c-4680-bfc7-e4dba4736d16" />
+
 
 ## Key Takeaways
 - Basic SKU **requires** a dedicated AzureFirewallManagementSubnet — Standard/Premium do not.
