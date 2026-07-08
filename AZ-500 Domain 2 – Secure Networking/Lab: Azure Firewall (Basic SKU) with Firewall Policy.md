@@ -92,7 +92,11 @@ Screenshots:
 - Basic SKU **requires** a dedicated AzureFirewallManagementSubnet — Standard/Premium do not.
 - Network rules take precedence over application rules regardless of priority.
 - UDR must be associated **only** to the workload subnet, never to AzureFirewallSubnet.
+- **UDR next hop address must be the firewall's private IP, not the workload VM's IP** — pointing it at the VM itself creates a routing black hole with no traffic reaching the firewall at all.
 - Basic SKU policy uses pre-provisioned default rule collection groups (`DefaultNetworkRuleCollectionGroup`, `DefaultApplicationRuleCollectionGroup`, `DefaultDnatRuleCollectionGroup`).
+- Azure Firewall drops denied traffic silently (timeout), not with an active reset/refused — a useful diagnostic signature when troubleshooting.
+
+## Reference
 
 ## Reference
 [Deploy and configure Azure Firewall Basic using Azure Portal](https://learn.microsoft.com/en-us/azure/firewall/deploy-firewall-basic-portal-policy)
