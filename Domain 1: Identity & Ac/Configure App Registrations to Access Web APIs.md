@@ -4,6 +4,7 @@
 Register a Web API app, expose a custom scope, register a Client app, link delegated permissions to both the custom API and Microsoft Graph, grant tenant-wide admin consent, and validate the full chain by issuing a real token.
 Ref:https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-configure-app-access-web-apis
 https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app
+https://learn.microsoft.com/en-us/entra/identity/enterprise-apps/grant-admin-consent
 ## 🏢 Environment
 - Tenant: Shanthislaboutlook.onmicrosoft.com (Shanthi's_Lab)
 - Portal: entra.microsoft.com
