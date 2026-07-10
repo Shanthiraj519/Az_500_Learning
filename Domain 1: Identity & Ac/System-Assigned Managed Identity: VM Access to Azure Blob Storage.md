@@ -1,5 +1,5 @@
 # Lab– System-Assigned Managed Identity: VM Access to Azure Blob Storage
-
+Ref:  [ App Registration & Service Principal Permissions](https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/tutorial-windows-managed-identities-vm-access?pivots=identity-windows-mi-vm-access-data-lake)
 ## Objective
 Configure a VM's system-assigned managed identity to authenticate to Azure Blob Storage and read container contents — without storing any credentials, keys, or connection strings in code.
 
