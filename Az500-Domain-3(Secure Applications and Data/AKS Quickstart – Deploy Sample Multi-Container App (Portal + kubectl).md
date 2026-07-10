@@ -34,6 +34,13 @@
   - Main container exits with `Exit Code: 1` before binding to port 3000 — startup probe reports `connection refused`.
   - Likely an application-level issue (AMQP connection/auth to RabbitMQ, or startup race condition) rather than a cluster/networking config issue.
   - Root cause not pursued further — deprioritized in favor of AZ-500 exam prep (exam July 25, 2026). Flagged here for future revisit.
+ 
+  - <img width="959" height="405" alt="image" src="https://github.com/user-attachments/assets/2507e960-eb0c-4d59-aebc-fae3651d789a" />
+<img width="953" height="410" alt="image" src="https://github.com/user-attachments/assets/15d55ce2-82fe-43df-bd83-1edbad1616be" />
+<img width="883" height="328" alt="image" src="https://github.com/user-attachments/assets/7ff75f58-0d20-4668-bd37-059c1a83efdf" />
+<img width="1324" height="687" alt="image" src="https://github.com/user-attachments/assets/2c1a73a4-e090-4b92-84ad-d8c5a6d98fee" />
+<img width="1333" height="372" alt="image" src="https://github.com/user-attachments/assets/aa4ee60f-70ad-4d3c-a8f9-669d82149c33" />
+
 
 ### Cleanup
 - Resource group deleted post-lab to avoid ongoing cost, given 3-node cluster vs. single-node budget assumption (₹800 alert threshold).
