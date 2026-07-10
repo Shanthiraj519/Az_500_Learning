@@ -1,7 +1,7 @@
 # Lab: Add a Guest User (B2B Collaboration) - AZ-500 Domain 1
 
 ## Prerequisites 
-- Role: Teams administrator (UA) ✅
+- Role: Teams administrator  ✅
 - External email used: shanthiraj519@gmail.com ✅
 
 ## Steps Completed
