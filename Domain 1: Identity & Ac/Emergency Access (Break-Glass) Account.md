@@ -54,10 +54,13 @@ Create and secure a cloud-only emergency access ("break-glass") account in Micro
 ## Screenshots
 - `<img width="1364" height="614" alt="image" src="https://github.com/user-attachments/assets/3fe25c5e-3741-4350-a649-ccd75a2436d6" />
  – account details, UPN, Object ID
-- `<img width="1365" height="516" alt="image" src="https://github.com/user-attachments/assets/7447cf6f-e34b-4476-b01f-52a1042abec1" />
+- `<img width="1365" height="516" alt="image" src="https://github.com/user-attachments/assets/707968a9-cd3f-4bd1-a275-83b74f4dd0bf" />
+
 ` – Global Administrator role assignment
-- `<img width="1365" height="583" alt="image" src="https://github.com/user-attachments/assets/e7dbec82-b23f-4f58-8698-7d4c42ac4a37" />
-.png` – FIDO2 disabled at tenant policy level
-- `` – Password + Authenticator TOTP registered
-- `<img width="1365" height="599" alt="image" src="https://github.com/user-attachments/assets/d6913822-aa96-4db9-b928-7eecb3e64b8e" />
+- `<img width="1352" height="617" alt="image" src="https://github.com/user-attachments/assets/838e5755-167e-4e85-974c-1ffbb0fee662" />
+– FIDO2 disabled at tenant policy level
+- `<img width="1365" height="583" alt="image" src="https://github.com/user-attachments/assets/c6a37fbd-2a5e-4f9d-8c86-f3377d224445" />
+` – Password + Authenticator TOTP registered
+- `<img width="1365" height="599" alt="image" src="https://github.com/user-attachments/assets/f3185aea-ed1c-4904-9d02-616a34d76379" />
+
 ` – verified successful sign-in activity
